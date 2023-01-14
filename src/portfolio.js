@@ -57,9 +57,28 @@ const skills = [
   'CTF'
 ]
 
+// const achivements = [
+// "CVE-2020-25454",
+// "CVE-2020-26218",
+// "CVE-2020-26219",
+// "CVE-2020-26220",
+// "CVE-2020-26221",
+// "Winner of NullTrace CTF 2021",
+// "Runner up of Schneider Electric CTF 2021",
+// "Runner up of ShaktiCTF 2022",
+// "Runner of BugBase Weekly Trials CTF 2022",
+// "3rd Place in wtfCTF 2021",
+// "Got Featured in Top 100 Women in CyberSecurity India in 2021",
+// "Top 1% Ranking in TryHackMe",
+// "Best Rank #123 in HackTheBox WorldWide",
+// "Reported Multiple Security Issues in BugCrowd & Hackerone",
+// "Synack Red Teamer"
+// ]
+
+
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'simransankhala08@mail.com',
 }
 
 export { header, about, projects, skills, contact }
+
