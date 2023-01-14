@@ -39,7 +39,7 @@ const projects = [
     description:
       'Certified Threat Intelligence Analyst',
     stack: ['EC-Council'],
-    livePreview: 'https://aspen.eccouncil.org/Verify',
+    livePreview: 'https://drive.google.com/file/d/1skA8HcrPD2npTnxLBZ6z2i1T8pTxjN8N/view?usp=sharing',
   },
 ]
 
