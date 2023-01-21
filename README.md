@@ -1,5 +1,5 @@
 # simran-sankhala.github.io
 Portfolio Minimal Website
 
-[See Live](simransankhala.surge.sh)
+[See Live](https://simransankhala.surge.sh)
 ![](gh=page.png)
