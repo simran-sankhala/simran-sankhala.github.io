@@ -1,5 +1,5 @@
-# simran-sankhala.github.io
-Portfolio Minimal Website
 
-[See Live](https://simransankhala.live)
+# Portfolio Minimal Website
+
+[See Live](https://simran-sankhala.live)
 ![](gh=page.png)
